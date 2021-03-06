@@ -1,7 +1,7 @@
 body {
-    background: #192734;
+    background: #192734; /*Costumise the background color if you want*/
     color: #fff;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif; /*Change the font if you want. Just edit 'Open Sans', so slower browsers can load sans-serif instead*/
     font-size: 15px;
     letter-spacing: 2px;
 }
