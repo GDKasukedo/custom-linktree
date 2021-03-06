@@ -9,7 +9,3 @@ A quick tutorial is given in the html and css file. A little bit knowledge is re
 ## Credit?
 
 Oh boy. I was so nice in adding the credit to my page so dont remove it. It helps me very much.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
